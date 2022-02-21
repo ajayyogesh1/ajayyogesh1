@@ -3,7 +3,7 @@
 - I Love to Contribute more projects in the field of Computer Science
 - 👀 I’m interested in Solving Real World Problems
 - 🌱 I’m currently learning Advanced Data Structures and Algorithms
-- I had Some Basic Programming Experiences in Python, Java, Javascript, C and C++
+- I had Intermediate Programming Experiences in Python, Java, Javascript, C and C++
 
 ### Contact
 [<img align="left" alt="ajayyogesh1 | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/Ajay001)
