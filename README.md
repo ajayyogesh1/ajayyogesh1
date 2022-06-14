@@ -7,8 +7,7 @@
 
 
 
-### Contact
-[<img align="left" alt="ajayyogesh1 | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/Ajay001)
+
 
 <!---
 ajayyogesh1/ajayyogesh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
